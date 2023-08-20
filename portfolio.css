@@ -37,6 +37,7 @@ header{
 .nav{
      display: flex;
      align-items: center;
+    color:#fff;
 
 }
 .nav ol{
