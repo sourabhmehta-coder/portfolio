@@ -34,6 +34,17 @@ header{
     color: rgb(44, 44, 44);
     font-size: 1.5em;
 }
+#backButton {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    border: none;
+    border-radius: 20%;
+}
+
+
 .nav{
      display: flex;
      align-items: center;
